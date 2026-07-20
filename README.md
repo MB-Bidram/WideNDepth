@@ -164,6 +164,12 @@ More work is still needed, including:
 - larger-scale training experiments,
 - careful memory reporting, including allocated and reserved CUDA memory.
 
+## Current research position
+
+WND can currently be described as:
+
+> An experimental neural architecture that separates rich feature storage and retrieval from iterative computation, with encouraging early results for low-memory training on consumer hardware.
+
 
 
 ## License
@@ -178,8 +184,3 @@ Copyright © 2026 Mohammadbagher Bidram.
 The complete WND implementation, training system, and WiND native runtime are
 not included in this repository and remain proprietary.
 [![License: CC BY 4.0](https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)
-## Current research position
-
-WND can currently be described as:
-
-> An experimental neural architecture that separates rich feature storage and retrieval from iterative computation, with encouraging early results for low-memory training on consumer hardware.
