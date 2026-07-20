@@ -164,6 +164,20 @@ More work is still needed, including:
 - larger-scale training experiments,
 - careful memory reporting, including allocated and reserved CUDA memory.
 
+
+
+## License
+
+The paper, documentation, diagrams, figures, benchmark results, and other
+non-code research materials in this repository are licensed under the
+[Creative Commons Attribution 4.0 International License (CC BY 4.0)](
+https://creativecommons.org/licenses/by/4.0/).
+
+Copyright © 2026 Mohammadbagher Bidram.
+
+The complete WND implementation, training system, and WiND native runtime are
+not included in this repository and remain proprietary.
+[![License: CC BY 4.0](https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)
 ## Current research position
 
 WND can currently be described as:
